@@ -1,0 +1,45 @@
+﻿Analyzing dailyatt...                                           
+
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\homepage.dart:172:42 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\homepage.dart:181:42 - use_build_context_synchronously
+   info - Unnecessary braces in a string interpolation - lib\homepage.dart:282:43 - unnecessary_brace_in_string_interps
+   info - Unnecessary braces in a string interpolation - lib\homepage.dart:296:43 - unnecessary_brace_in_string_interps
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\homepage.dart:562:40 - deprecated_member_use
+  error - Expected to find ']' - lib\homepage.dart:774:17 - expected_token
+  error - Expected an identifier - lib\homepage.dart:775:17 - missing_identifier
+  error - Expected to find ')' - lib\homepage.dart:775:17 - expected_token
+  error - Expected to find ',' - lib\homepage.dart:775:17 - expected_token
+  error - Expected to find ';' - lib\homepage.dart:809:11 - expected_token
+warning - Dead code - lib\homepage.dart:809:12 - dead_code
+  error - Expected an identifier - lib\homepage.dart:809:12 - missing_identifier
+  error - Unexpected text ';' - lib\homepage.dart:809:12 - unexpected_token
+  error - Expected to find ';' - lib\homepage.dart:810:44 - expected_token
+  error - Expected an identifier - lib\homepage.dart:810:45 - missing_identifier
+  error - Expected to find ';' - lib\homepage.dart:810:45 - expected_token
+  error - Unexpected text ';' - lib\homepage.dart:810:45 - unexpected_token
+  error - Expected an identifier - lib\homepage.dart:811:9 - missing_identifier
+  error - Expected to find ';' - lib\homepage.dart:811:9 - expected_token
+  error - Unexpected text ';' - lib\homepage.dart:811:9 - unexpected_token
+  error - Expected an identifier - lib\homepage.dart:811:10 - missing_identifier
+  error - Expected to find ';' - lib\homepage.dart:811:10 - expected_token
+  error - Unexpected text ';' - lib\homepage.dart:811:10 - unexpected_token
+  error - Expected an identifier - lib\homepage.dart:812:7 - missing_identifier
+  error - Expected to find ';' - lib\homepage.dart:812:7 - expected_token
+  error - Unexpected text ';' - lib\homepage.dart:812:7 - unexpected_token
+  error - Expected an identifier - lib\homepage.dart:812:8 - missing_identifier
+  error - Unexpected text ';' - lib\homepage.dart:812:8 - unexpected_token
+warning - The label 'floatingActionButton' isn't used - lib\homepage.dart:813:7 - unused_label
+  error - Expected to find ';' - lib\homepage.dart:819:13 - expected_token
+  error - Expected an identifier - lib\homepage.dart:819:14 - missing_identifier
+  error - Expected to find ';' - lib\homepage.dart:819:14 - expected_token
+  error - Unexpected text ';' - lib\homepage.dart:819:14 - unexpected_token
+  error - Expected an identifier - lib\homepage.dart:820:5 - missing_identifier
+  error - Unexpected text ';' - lib\homepage.dart:820:5 - unexpected_token
+   info - Unnecessary empty statement - lib\homepage.dart:820:6 - empty_statements
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\homepage.dart:836:7 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\homepage.dart:895:7 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:142:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:144:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\splash_screen.dart:151:43 - deprecated_member_use
+warning - The value of the local variable 'semester' isn't used - lib\services\pdf_service.dart:47:13 - unused_local_variable
+
